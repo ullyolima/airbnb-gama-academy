@@ -1,6 +1,6 @@
 # Fake Airbnb - Gama Academy
 
-Desafio aplicado durante o Gama Experience, com o objetivo de reforçar conhecimentos adquiridos nas aulas online.
+Desafio aplicado durante o Gama Experience, com o objetivo de reforçar conhecimentos adquiridos nas aulas.
 
 ## Deploy
 

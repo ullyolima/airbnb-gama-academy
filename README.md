@@ -4,7 +4,7 @@ Desafio aplicado durante o Gama Experience, com o objetivo de reforçar conhecim
 
 ## Deploy
 
-[Clique aqui](https://ullyolima.github.io/airbnb-gama-academy/) para visualizar o resultado.
+[Clique aqui](https://amazing-kowalevski-7c3f38.netlify.app/) para visualizar o resultado.
 
 ## Objetivo
 

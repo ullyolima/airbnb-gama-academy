@@ -1,6 +1,6 @@
 # Fake Airbnb - Gama Academy
 
-Desafio aplicado durante o Gama Experience, com o objetivo de reforçar conhecimentos adquiridos nas aulas.
+Desafio aplicado durante o Gama Experience, com o objetivo de reforçar conhecimentos adquiridos sobre JavaScript.
 
 ## Deploy
 
